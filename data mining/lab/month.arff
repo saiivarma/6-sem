@@ -1,0 +1,23 @@
+ 
+@relation months
+
+@ATTRIBUTE name  STRING
+@ATTRIBUTE number   NUMERIC
+@ATTRIBUTE class  {'yes','no'}
+  
+@data
+jan,1,yes
+Feb,2,no
+Mar,3,yes
+Apr,4,yes
+May,5,no
+Jun,6,yes
+Jul,7,yes
+Aug,8,no
+Sep,9,yes
+Oct,10,yes
+Nov,11,no
+Dec,12,yes
+
+
+
