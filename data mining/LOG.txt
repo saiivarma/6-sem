@@ -3,3 +3,4 @@ LOG :
 lab 1 - 4/12/17 :
 
 brief reseacrh about what data mining is and exploring WEKA playing around with the interface
+gathering resources
