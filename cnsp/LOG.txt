@@ -1,1 +1,15 @@
+lab 1 - 12/5/17
+
+command exercise 
+
+ifconfig
+netstat
+ping
+arp
+telnet
+ftp
+finger(pinky)
+traceroute
+whois
+
 
