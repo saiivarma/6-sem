@@ -20,3 +20,15 @@ a/p |+ve |-ve
 a- actual p- predicted
 
 created month.arrf
+
+#lab 2 - 18/12/17
+
+converted a .dat file into csv
+followed by 
+applying some pre processing filters 
+1) Replacing missing values - three kinds:
+    i) replacing with means and modes
+    ii) replacing with user supplied values
+    iii) replacing with missing values
+2) Attribute Selection
+3) Discretization - grouping them 
