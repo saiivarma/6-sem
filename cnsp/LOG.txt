@@ -12,4 +12,14 @@ finger(pinky)
 traceroute
 whois
 
+lab 2 - 19/5/17
 
+was busy with some other work 
+
+lab 3 - 2/8/17
+
+2. connection oriented concurrent echo client/server
+  -> 2.c -> server
+  -> 3.c -> client
+  
+  
