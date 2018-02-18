@@ -2,5 +2,3 @@
 
 * Anirudh
 * Pravin
-* Chandu
-* Dheeraj
