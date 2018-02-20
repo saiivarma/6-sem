@@ -18,7 +18,7 @@ int main(int argc,char *argv[])
                 printf("\n usage:server<port>");
                 exit(0);
         }
-        if((cs=socket(AF_INET,SOCK_STREAM,0))<0)
+        if((cs=socket(AF_INET,SOCK_DGRAM,0))<0)
         {
                 perror("socket");
                 exit(0);
