@@ -3,7 +3,7 @@ package proj;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class Main {
+public class Main_for_HTTP {
 
 	public static void main(String[] args) {
 
