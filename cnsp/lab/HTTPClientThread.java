@@ -13,7 +13,7 @@ public class HTTPClientThread extends Thread
 	private File file;
 	final static String CRLF = "\r\n";
 
-	public ClientThread(Socket clientSocket)
+	public HTTPClientThread(Socket clientSocket)
 	{
 		this.socket = clientSocket;
 		this.isStop = false;
