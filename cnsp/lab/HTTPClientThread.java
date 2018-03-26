@@ -4,7 +4,7 @@ import java.io.*;
 import java.net.*;
 import java.util.Date;
 
-public class ClientThread extends Thread 
+public class HTTPClientThread extends Thread 
 {
 	private Socket socket;
 	private boolean isStop;
