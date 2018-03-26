@@ -34,7 +34,7 @@ public class FileClient {
 	}
 	
 	public static void main(String[] args) {
-		FileClient fc = new FileClient(args[0], 7755, args[1]);//arguments to pass abt file
+		FileClient fc = new FileClient(args[0], 7755, args[1]);//args[0] is host ip addr, arg[1] is file name(.zip file)
 	}
 
 }
