@@ -14,7 +14,7 @@ public class Main_for_HTTP {
 			Socket clientSocket=serverSocket.accept();
 			System.out.println("client connected");
 //			System.out.println("client"+clientsocket.getInetAddress().getHostAddress()+"is connected");
-			ClientThread clientthread=new ClientThread(clientSocket);
+			HTTPClientThread clientthread=new HTTPClientThread(clientSocket);
 			clientthread.start();	
 		}
 	}catch(Exception e) {
