@@ -1,3 +1,5 @@
 1. Socket system calls : https://www.cs.hmc.edu/~mike/public_html/courses/cs125/FAQ/examples.html
 
 2. Guide to Network Programming in one page: http://beej.us/guide/bgnet/html/single/bgnet.html
+
+All about socket options: https://www.ibm.com/support/knowledgecenter/en/ssw_i5_54/apis/gsocko.htm
