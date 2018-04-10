@@ -50,7 +50,7 @@ int main(int argc,char *argv[])
                                 buff1[n]='\0';
                                 if(!strcmp("exit",buff1))
                                 {
-                                        printf("\a\a server is exciting");
+                                        printf("\a\a server is exiting");
                                         exit(1);
                                 }
                                 close(1);
