@@ -3,7 +3,6 @@
 #include<sys/socket.h>
 #include<netinet/in.h>
 #include<stdlib.h>
-#include<stdlib.h>
 #define MAX 1024
 int main(int argc,char *argv[])
 {
